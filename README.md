@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <h1 align="center">I'm Kacper Kowalski (devkow77)</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A student UR, Creating Website is my Passion</h3>
 
 <img alt="spider" src="https://bestanimations.com/media/spiders/1032270766spider-animated-gif-3.gif" />
 
