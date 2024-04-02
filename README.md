@@ -1,3 +1,3 @@
-<h1 align="center">Hi 👋</h1>
-<h1 align="center">I'm Kacper Kowalski (devkow77)</h1>
-<h3 align="center">A student UR, Creating Website is my Passion</h3>
+<h1 align="center">Kacper Kowalski (devkow77)</h1>
+<h3 align="center">A student Uniwersytet Rzeszowski</h3>
+<h3 align="center">TechStack: NextJS, Vue3, Typescript</h3>
