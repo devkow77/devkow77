@@ -1,6 +1,6 @@
 <h2>
   Contact me: devkow77@gmail.com<br/><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,mongodb,prisma,docker" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,mongodb,express,nodejs,prisma,docker" />
 </h2>
 <h2>My latest project - FullManagmentSchelter</h2>
 <div align="center">
